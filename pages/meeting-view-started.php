@@ -489,7 +489,7 @@
                                                                 <tr>
                                                                     <td>Sending attachments</td>
                                                                     <td class="text-center">Solo</td>
-                                                                    <td class="text-center">Hossein Azimi</td>
+                                                                    <td class="text-center">Mehdi Yegane</td>
                                                                     <td class="text-center">8h 45m</td>
                                                                     <td class="text-center"><span
                                                                                 class="badge badge-warning">Medium</span>
@@ -517,7 +517,7 @@
                                                                 <tr>
                                                                     <td>Training Meeting</td>
                                                                     <td class="text-center">Meeting</td>
-                                                                    <td class="text-center">Ehsan Rezvanian</td>
+                                                                    <td class="text-center">John Taromi</td>
                                                                     <td class="text-center">4h</td>
                                                                     <td class="text-center"><span
                                                                                 class="badge badge-success">Low</span>
@@ -545,7 +545,7 @@
                                                                 <tr>
                                                                     <td>Coordination Meeting</td>
                                                                     <td class="text-center">Meeting</td>
-                                                                    <td class="text-center">Hossein Azimi</td>
+                                                                    <td class="text-center">Mehdi Yegane</td>
                                                                     <td class="text-center">16h 30m</td>
                                                                     <td class="text-center">
                                                                         <span class="badge badge-danger">High</span>
@@ -573,7 +573,7 @@
                                                                 <tr>
                                                                     <td>Video Editing</td>
                                                                     <td class="text-center">Edit</td>
-                                                                    <td class="text-center">Hossein Azimi</td>
+                                                                    <td class="text-center">Mehdi Yegane</td>
                                                                     <td class="text-center">7h 15m</td>
                                                                     <td class="text-center"><span
                                                                                 class="badge badge-warning">Medium</span>
@@ -601,7 +601,7 @@
                                                                 <tr>
                                                                     <td>Birthday filming</td>
                                                                     <td class="text-center">filming</td>
-                                                                    <td class="text-center">Ehsan Rezvanian</td>
+                                                                    <td class="text-center">John Taromi</td>
                                                                     <td class="text-center">10h</td>
                                                                     <td class="text-center"><span
                                                                                 class="badge badge-danger">High</span>
@@ -1242,7 +1242,7 @@
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                            <td>Ehsan Rezvanian</td>
+                                                            <td>John Taromi</td>
                                                             <td class="text-center">Employee</td>
                                                             <td class="text-center">TQM</td>
                                                             <td class="text-center">HR</td>
@@ -1257,7 +1257,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Hossein Azimi</td>
+                                                            <td>Mehdi Yegane</td>
                                                             <td class="text-center">Customer</td>
                                                             <td class="text-center">-</td>
                                                             <td class="text-center">-</td>
@@ -1271,7 +1271,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Ehsan Rezvanian</td>
+                                                            <td>John Taromi</td>
                                                             <td class="text-center">Employee</td>
                                                             <td class="text-center">TQM</td>
                                                             <td class="text-center">HR</td>
@@ -1286,7 +1286,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Hossein Azimi</td>
+                                                            <td>Mehdi Yegane</td>
                                                             <td class="text-center">Customer</td>
                                                             <td class="text-center">-</td>
                                                             <td class="text-center">-</td>
@@ -1300,7 +1300,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Ehsan Rezvanian</td>
+                                                            <td>John Taromi</td>
                                                             <td class="text-center">Employee</td>
                                                             <td class="text-center">TQM</td>
                                                             <td class="text-center">HR</td>
@@ -1315,7 +1315,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Hossein Azimi</td>
+                                                            <td>Mehdi Yegane</td>
                                                             <td class="text-center">Customer</td>
                                                             <td class="text-center">-</td>
                                                             <td class="text-center">-</td>
@@ -1329,7 +1329,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Ehsan Rezvanian</td>
+                                                            <td>John Taromi</td>
                                                             <td class="text-center">Employee</td>
                                                             <td class="text-center">TQM</td>
                                                             <td class="text-center">HR</td>
@@ -1344,7 +1344,7 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td>Hossein Azimi</td>
+                                                            <td>Mehdi Yegane</td>
                                                             <td class="text-center">Customer</td>
                                                             <td class="text-center">-</td>
                                                             <td class="text-center">-</td>
@@ -1627,9 +1627,9 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control" id="ProjectManager">
-                                                                    <option>Ehsan Rezvanian</option>
+                                                                    <option>John Taromi</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -1708,7 +1708,7 @@
                                                                     </thead>
                                                                     <tbody>
                                                                     <tr>
-                                                                        <th scope="row">Ehsan Rezvanian</th>
+                                                                        <th scope="row">John Taromi</th>
                                                                         <td class="text-center">
                                                                             TQM
                                                                         </td>
@@ -1717,7 +1717,7 @@
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <th scope="row">Hossein Azimi</th>
+                                                                        <th scope="row">Mehdi Yegane</th>
                                                                         <td class="text-center">
                                                                             Finance
                                                                         </td>

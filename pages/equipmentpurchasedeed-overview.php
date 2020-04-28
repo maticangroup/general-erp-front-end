@@ -37,7 +37,7 @@
                         <tr>
                             <td class="text-center">2</td>
                             <td class="text-center">Digital</td>
-                            <td class="text-center">Hossein Azimi</td>
+                            <td class="text-center">Mehdi Yegane</td>
                             <td class="text-center">Nikoo Gharib</td>
                             <td class="text-center">Saba Nouri</td>
                             <td class="text-center">12 December 2019</td>
@@ -57,7 +57,7 @@
                         <tr>
                             <td class="text-center">1</td>
                             <td class="text-center">Digital</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Yasaman Taghvaie</td>
                             <td class="text-center">Saba Nouri</td>
                             <td class="text-center">12 December 2019</td>
@@ -77,7 +77,7 @@
                         <tr>
                             <td class="text-center">5</td>
                             <td class="text-center">Digital</td>
-                            <td class="text-center">Hossein Azimi</td>
+                            <td class="text-center">Mehdi Yegane</td>
                             <td class="text-center">Mahdi Ardalan</td>
                             <td class="text-center">Saba Nouri</td>
                             <td class="text-center">12 December 2019</td>
@@ -97,9 +97,9 @@
                         <tr>
                             <td class="text-center">3</td>
                             <td class="text-center">Digital</td>
-                            <td class="text-center">Hossein Azimi</td>
+                            <td class="text-center">Mehdi Yegane</td>
                             <td class="text-center">Shamsi Saberi</td>
-                            <td class="text-center">Hossein Azimi</td>
+                            <td class="text-center">Mehdi Yegane</td>
                             <td class="text-center">12 December 2019</td>
                             <td class="text-center">785645</td>
                             <td class="text-center">Shariati</td>
@@ -115,9 +115,9 @@
                         <tr>
                             <td class="text-center">1</td>
                             <td class="text-center">Digital</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Motahareh Moalem</td>
-                            <td class="text-center">Hossein Azimi</td>
+                            <td class="text-center">Mehdi Yegane</td>
                             <td class="text-center">12 December 2019</td>
                             <td class="text-center">45644</td>
                             <td class="text-center">Shariati</td>

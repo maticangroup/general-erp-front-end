@@ -699,8 +699,8 @@
 
                                                         <select class="form-control "
                                                                 data-placeholder="">
-                                                            <option value="1">Ehsan Rezvanian</option>
-                                                            <option value="2">Hossein Azimi</option>
+                                                            <option value="1">John Taromi</option>
+                                                            <option value="2">Mehdi Yegane</option>
                                                             <option value="3">Milad Mohammadi</option>
                                                         </select>
                                                     </div>

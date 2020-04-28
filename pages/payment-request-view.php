@@ -20,7 +20,7 @@
                         <span class="avatar-status bg-green"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">John Taromi</a></h5>
                 <span>Requester</span>
                 <div>
                     <span class="badge badge-default">manager</span>
@@ -46,7 +46,7 @@
                         <span class="avatar-status bg-green"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">John Taromi</a></h5>
                 <span>From</span>
                 <div>
                     <span class="badge badge-default">manager</span>
@@ -72,7 +72,7 @@
                         <span class="avatar-status bg-green"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                 <span>To</span>
                 <div>
                     <span class="badge badge-default">manager</span>
@@ -184,7 +184,7 @@
                             <!-- Tabs -->
                             <ul class="nav panel-tabs">
                                 <li><a href="#tab6" class="font-weight-bold active"
-                                       data-toggle="tab">Mr. Rezvanian's Web Shop</a></li>
+                                       data-toggle="tab">Mr. Taromi's Web Shop</a></li>
                             </ul>
                         </div>
                     </div>
@@ -214,7 +214,7 @@
                                             <td>Mr. Azimi</td>
                                             <td>2/3/97</td>
                                             <td>2,000,000</td>
-                                            <td>Ehsan Rezvanian</td>
+                                            <td>John Taromi</td>
                                             <td>Matican Group</td>
                                             <td>65465</td>
                                         </tr>

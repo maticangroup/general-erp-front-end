@@ -224,7 +224,7 @@
         </div>
         <div class="user-info">
             <a href="#" class="ml-2"><span
-                        class="text-dark app-sidebar__user-name font-weight-semibold">Hossein Azimi</span><br>
+                        class="text-dark app-sidebar__user-name font-weight-semibold">Mehdi Yegane</span><br>
                 <span class="text-muted app-sidebar__user-name text-sm"> CEO</span>
             </a>
         </div>

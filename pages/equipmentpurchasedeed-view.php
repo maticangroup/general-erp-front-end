@@ -44,7 +44,7 @@
                         <span class="avatar-status bg-success"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                 <span>Confirmation person</span>
                 <div >
                     <span class="badge badge-default">Designer</span>
@@ -86,7 +86,7 @@
                         <span class="avatar-status bg-success"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">John Taromi</a></h5>
                 <span>Deliver person</span>
                 <div >
                     <span class="badge badge-default">Transfer</span>
@@ -184,7 +184,7 @@
                             <td class="text-center">Heli shot NI370</td>
                             <td class="text-center">Digital</td>
                             <td class="text-center">4,000,000 T</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Accepted</td>
                             <td class="text-center">
                                 <a class="icon" href="javascriptvoid(0)"></a>
@@ -196,7 +196,7 @@
                             <td class="text-center">Heli shot NI400</td>
                             <td class="text-center">Digital</td>
                             <td class="text-center">11,000,000 T</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Purchased</td>
                             <td class="text-center">
                                 <a class="icon" href="javascriptvoid(0)"></a>
@@ -208,7 +208,7 @@
                             <td class="text-center">Camera Nikon D3400</td>
                             <td class="text-center">Digital</td>
                             <td class="text-center">4,500,000 T</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Purchased</td>
                             <td class="text-center">
                                 <a class="icon" href="javascriptvoid(0)"></a>
@@ -220,7 +220,7 @@
                             <td class="text-center">Camera Nikon Z6</td>
                             <td class="text-center">Digital</td>
                             <td class="text-center">16,000,000 T</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Delivered</td>
                             <td class="text-center">
                                 <a class="icon" href="javascriptvoid(0)"></a>
@@ -692,7 +692,7 @@
                                     <div><span class="avatar avatar-xxl brround cover-image m-4"
                                                data-image-src="../assets/images/photos/pro9.jpg"></span>
                                     </div>
-                                    <div class="font-weight-bold ">Hossein Azimi</div><br>
+                                    <div class="font-weight-bold ">Mehdi Yegane</div><br>
                                     <div><span class="font-weight-bold">Org code :</span><br> EM 0010506
                                     </div>
                                     <div><span class="font-weight-bold">Role :</span><br> camera man</div>
@@ -704,7 +704,7 @@
                                 <div><span class="avatar avatar-xxl brround cover-image m-4"
                                            data-image-src="../assets/images/photos/pro3.jpg"></span>
                                 </div>
-                                <div class="font-weight-bold "> Ehsan Rezvanian</div><br>
+                                <div class="font-weight-bold "> John Taromi</div><br>
                                 <div><span class="font-weight-bold">Org code :</span><br> EM 0010506
                                 </div>
                                 <div><span class="font-weight-bold">Role :</span><br> driver</div>

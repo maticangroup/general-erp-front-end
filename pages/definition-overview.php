@@ -32,7 +32,7 @@
                                         <span class="avatar avatar-xxl bradius"
                                               style="background-image: url(../assets/images/photos/depositphotos_113815276-stock-illustration-initial-letter-hr-silver-gold.jpg)"></span>
                                         <h4 class="font-weight-light mt-5 text-primary">Human Resources</h4>
-                                        <h5 class="font-weight-light mt-3 text-primary">Hossein Azimi</h5>
+                                        <h5 class="font-weight-light mt-3 text-primary">Mehdi Yegane</h5>
                                         <div class="progress progress-md mt-4">
                                             <div class="progress-bar bg-success w-70 text-white">70%
                                             </div>
@@ -101,7 +101,7 @@
                                         <span class="avatar avatar-xxl bradius"
                                               style="background-image: url(../assets/images/photos/depositphotos_113815276-stock-illustration-initial-letter-hr-silver-gold.jpg)"></span>
                                         <h4 class="font-weight-light mt-5 text-primary">TQM</h4>
-                                        <h5 class="font-weight-light mt-3 text-primary">Ehsab Rezvanian</h5>
+                                        <h5 class="font-weight-light mt-3 text-primary">Ehsab Taromi</h5>
                                         <div class="progress progress-md mt-4">
                                             <div class="progress-bar bg-danger w-50 text-white">30%
                                             </div>

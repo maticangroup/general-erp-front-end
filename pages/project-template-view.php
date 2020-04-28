@@ -1016,7 +1016,7 @@
                                                 <span class="avatar-status bg-green"></span>
                                             </span>
                                         </a>
-                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                                         <span>Person Position</span>
                                         <div>
                                             <span class="badge badge-default">cameraman</span>

@@ -421,7 +421,7 @@
                             <span class="avatar-status bg-green"></span>
                         </span>
                                 </a>
-                                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                                 <span>Owner 1</span>
                                 <div >
                                     <span class="badge badge-default">Religious</span>
@@ -466,7 +466,7 @@
                             <span class="avatar-status bg-green"></span>
                         </span>
                                 </a>
-                                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">John Taromi</a></h5>
                                 <span>Project Manager</span>
                                 <div >
                                     <span class="badge badge-default">manager</span>
@@ -857,9 +857,9 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control" id="ProjectManager">
-                                                                    <option>Ehsan Rezvanian</option>
+                                                                    <option>John Taromi</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -873,7 +873,7 @@
                                                                 <select class="form-control" id="ProductOwner">
                                                                     <option>Mahbobe Espidkar</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>

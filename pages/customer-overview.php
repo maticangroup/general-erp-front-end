@@ -121,7 +121,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -225,7 +225,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -329,7 +329,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -1961,7 +1961,7 @@
                                             <img src="../assets/images/photos/Bank_Pasargad_logo.png">
                                         </td>
                                         <td rowspan="7" class="text-center">
-                                            <div class="font-weight-bold mb-1">Rezvanian Ehsan</div>
+                                            <div class="font-weight-bold mb-1">Taromi John</div>
                                             <br>
                                             <div class="mb-3">5022 - 2910 - 2362 - 4479 <br>
                                                 Bank: Melli
@@ -2121,9 +2121,9 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control" id="ProjectManager">
-                                                                    <option>Ehsan Rezvanian</option>
+                                                                    <option>John Taromi</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -2202,7 +2202,7 @@
                                                                     </thead>
                                                                     <tbody>
                                                                     <tr>
-                                                                        <th scope="row">Ehsan Rezvanian</th>
+                                                                        <th scope="row">John Taromi</th>
                                                                         <td class="text-center">
                                                                             TQM
                                                                         </td>
@@ -2211,7 +2211,7 @@
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <th scope="row">Hossein Azimi</th>
+                                                                        <th scope="row">Mehdi Yegane</th>
                                                                         <td class="text-center">
                                                                             Finance
                                                                         </td>
@@ -2597,7 +2597,7 @@
                                                 <span class="avatar-status bg-green"></span>
                                             </span>
                                         </a>
-                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                                         <span>Person Position</span>
                                         <div>
                                             <span class="badge badge-default">cameraman</span>

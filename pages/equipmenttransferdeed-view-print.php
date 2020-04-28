@@ -44,7 +44,7 @@
                         <span class="avatar-status bg-success"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                 <span>From</span>
                 <div >
                     <span class="badge badge-default">Designer</span>
@@ -86,7 +86,7 @@
                         <span class="avatar-status bg-success"></span>
                     </span>
                 </a>
-                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">John Taromi</a></h5>
                 <span>Transfer Officer</span>
                 <div >
                     <span class="badge badge-default">Transfer</span>
@@ -179,7 +179,7 @@
                                             <div class="media-body ml-5 mt-1">
                                                 <h6 class="mediafont text-dark mb-1">Transfer
                                                     Officer</h6><span
-                                                        class="d-block">Ehsan Rezvanian</span>
+                                                        class="d-block">John Taromi</span>
                                             </div>
                                         </div>
                                         <div class="media mt-1 pb-2">
@@ -1145,7 +1145,7 @@
                                     <div><span class="avatar avatar-xxl brround cover-image m-4"
                                                data-image-src="../assets/images/photos/pro9.jpg"></span>
                                     </div>
-                                    <div class="font-weight-bold ">Hossein Azimi</div>
+                                    <div class="font-weight-bold ">Mehdi Yegane</div>
                                     <div><span class="font-weight-bold">Org code :</span> EM 0010506
                                     </div>
                                     <div><span class="font-weight-bold">Role :</span> camera man</div>
@@ -1157,7 +1157,7 @@
                                     <div><span class="avatar avatar-xxl brround cover-image m-4"
                                                data-image-src="../assets/images/photos/pro3.jpg"></span>
                                     </div>
-                                    <div class="font-weight-bold "> Ehsan Rezvanian</div>
+                                    <div class="font-weight-bold "> John Taromi</div>
                                     <div><span class="font-weight-bold">Org code :</span> EM 0010506
                                     </div>
                                     <div><span class="font-weight-bold">Role :</span> driver</div>

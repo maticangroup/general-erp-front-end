@@ -389,9 +389,9 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control" id="ProjectManager">
-                                                                    <option>Ehsan Rezvanian</option>
+                                                                    <option>John Taromi</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -474,7 +474,7 @@
                                                                         <th><span class="avatar avatar-lg brround"
                                                                                   style="background-image: url(../assets/images/photos/pro7.jpg)"></span>
                                                                         </th>
-                                                                        <th scope="row">Ehsan Rezvanian</th>
+                                                                        <th scope="row">John Taromi</th>
                                                                         <td class="text-center">
                                                                             TQM
                                                                         </td>
@@ -486,7 +486,7 @@
                                                                         <th><span class="avatar avatar-lg brround"
                                                                                   style="background-image: url(../assets/images/photos/pro8.jpg)"></span>
                                                                         </th>
-                                                                        <th scope="row">Hossein Azimi</th>
+                                                                        <th scope="row">Mehdi Yegane</th>
                                                                         <td class="text-center">
                                                                             Finance
                                                                         </td>
@@ -663,7 +663,7 @@
                                                                                 </span>
                                                                             </a>
                                                                             <h5 class="mt-3 mb-0"><a
-                                                                                        class="hover-primary" href="#">Reza Rezvanian</a></h5>
+                                                                                        class="hover-primary" href="#">Reza Taromi</a></h5>
                                                                             <span>Person Position</span>
                                                                             <div class="mt-4">
                                                                                 <label class="custom-switch">

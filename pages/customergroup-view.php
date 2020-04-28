@@ -124,7 +124,7 @@
                                    class="btn btn-teal btn-sm"><i class="fas fa-users"></i> Add to group</a></td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -228,7 +228,7 @@
                                    class="btn btn-teal btn-sm"><i class="fas fa-users"></i> Add to group</a></td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -332,7 +332,7 @@
                                    class="btn btn-teal btn-sm"><i class="fas fa-users"></i> Add to group</a></td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -471,7 +471,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>
@@ -524,7 +524,7 @@
                         </tr>
 
                         <tr>
-                            <td class="text-center">Ehsan</td>
+                            <td class="text-center">John</td>
                             <td class="text-center">Rezaian</td>
                             <td class="text-center">Male</td>
                             <td class="text-center">7/1/1373</td>

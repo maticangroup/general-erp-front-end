@@ -54,7 +54,7 @@
                             <img src="../assets/images/photos/Bank_Pasargad_logo.png">
                         </td>
                         <td rowspan="7" class="text-center">
-                            <div class="font-weight-bold mb-1">Rezvanian Ehsan</div>
+                            <div class="font-weight-bold mb-1">Taromi John</div>
                             <br>
                             <div class="mb-3">5022 - 2910 - 2362 - 4479 <br>
                                 Bank: Melli

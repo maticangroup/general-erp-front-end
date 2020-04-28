@@ -93,7 +93,7 @@
                                                         </thead>
                                                         <tbody>
                                                         <tr>
-                                                            <td>Creator: Rezvanian Ehsan</td>
+                                                            <td>Creator: Taromi John</td>
                                                         </tr>
                                                         <tr>
                                                             <td>Contract: F-2570</td>

@@ -560,9 +560,9 @@
                                                                 </div>
                                                                 <div class="col-lg-9">
                                                                     <select class="form-control" id="ProjectManager">
-                                                                        <option>Ehsan Rezvanian</option>
+                                                                        <option>John Taromi</option>
                                                                         <option>Amirhossein Hajighorbani</option>
-                                                                        <option>Hossein Azimi</option>
+                                                                        <option>Mehdi Yegane</option>
                                                                     </select>
                                                                 </div>
                                                             </div>
@@ -576,7 +576,7 @@
                                                                     <select class="form-control" id="ProductOwner">
                                                                         <option>Mahbobe Espidkar</option>
                                                                         <option>Amirhossein Hajighorbani</option>
-                                                                        <option>Hossein Azimi</option>
+                                                                        <option>Mehdi Yegane</option>
                                                                     </select>
                                                                 </div>
                                                             </div>
@@ -1075,9 +1075,9 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control" id="ProjectManager">
-                                                                    <option>Ehsan Rezvanian</option>
+                                                                    <option>John Taromi</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -1091,7 +1091,7 @@
                                                                 <select class="form-control" id="ProductOwner">
                                                                     <option>Mahbobe Espidkar</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>

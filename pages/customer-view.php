@@ -852,7 +852,7 @@
                                             <td class="text-center">Something</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-red w-10">10%</div>
@@ -875,7 +875,7 @@
                                             <td class="text-center">Something</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-warning w-35">35%</div>
@@ -900,7 +900,7 @@
                                             <td class="text-center">Something</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-success w-100">100%</div>
@@ -925,7 +925,7 @@
                                             <td class="text-center">Something</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-warning w-50">50%</div>
@@ -950,7 +950,7 @@
                                             <td class="text-center">Something</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-red w-30">30%</div>
@@ -975,7 +975,7 @@
                                             <td class="text-center">Something</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-red w-0">0%</div>
@@ -998,7 +998,7 @@
                                             <td class="text-center">Marriage ceremony</td>
                                             <td class="text-center">12,000,000 Rial</td>
                                             <td class="text-center">Website</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">
                                                 <div class="progress progress-md mb-3">
                                                     <div class="progress-bar bg-success w-85">85%</div>
@@ -1246,7 +1246,7 @@
                                             <td class="text-center">Sale</td>
                                             <td class="text-center">15 March 2019</td>
                                             <td class="text-center">$ 5,000</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">Nazgol Taranom</td>
                                             <td class="text-center">Salaries</td>
                                             <td class="text-center">31843416</td>
@@ -1267,7 +1267,7 @@
                                             <td class="text-center">Purchase</td>
                                             <td class="text-center">29 December 2021</td>
                                             <td class="text-center">$ 4,100</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center">Soheil Arabi</td>
                                             <td class="text-center">Catering</td>
                                             <td class="text-center">13815525</td>
@@ -1491,7 +1491,7 @@
                                         <tr>
                                             <td>Something</td>
                                             <td class="text-center">Service 1</td>
-                                            <td class="text-center">Ehsan Rezvanian</td>
+                                            <td class="text-center">John Taromi</td>
                                             <td class="text-center"> AhmadAzimi</td>
                                             <td class="text-center">2/2/91</td>
                                             <td class="text-center">2/3/93</td>
@@ -1607,7 +1607,7 @@
                                             <td>Something</td>
                                             <td class="text-center">Service 6</td>
                                             <td class="text-center">Mohammad Shirzad</td>
-                                            <td class="text-center">Hossein Azimi</td>
+                                            <td class="text-center">Mehdi Yegane</td>
                                             <td class="text-center">6/9/96</td>
                                             <td class="text-center">6/9/97</td>
                                             <td class="text-center">Teh, Enqelab Square</td>
@@ -1680,9 +1680,9 @@
                                             <td>2/3/97</td>
                                             <td>2,000,000</td>
                                             <td>Project Commission</td>
-                                            <td>Ehsan Rezvanian</td>
+                                            <td>John Taromi</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>687462</td>
                                             <td>Paid</td>
                                             <td class="text-center">
@@ -1705,7 +1705,7 @@
                                             <td>Salary</td>
                                             <td>Mohammad Qanati</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>4,000,000</td>
                                             <td>unpaid</td>
                                             <td class="text-center">
@@ -1728,9 +1728,9 @@
                                             <td>2/3/97</td>
                                             <td>2,000,000</td>
                                             <td>Salary</td>
-                                            <td>Ehsan Rezvanian</td>
+                                            <td>John Taromi</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>687462</td>
                                             <td>Paid</td>
                                             <td class="text-center">
@@ -1753,7 +1753,7 @@
                                             <td>Project Commission</td>
                                             <td>Mohammad Qanati</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>4,000,000</td>
                                             <td>unpaid</td>
                                             <td class="text-center">
@@ -1774,9 +1774,9 @@
                                             <td>2/3/97</td>
                                             <td>2,000,000</td>
                                             <td>Salary</td>
-                                            <td>Ehsan Rezvanian</td>
+                                            <td>John Taromi</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>687462</td>
                                             <td>Paid</td>
                                             <td class="text-center">
@@ -1799,7 +1799,7 @@
                                             <td>Salary</td>
                                             <td>Mohammad Qanati</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>4,000,000</td>
                                             <td>unpaid</td>
                                             <td class="text-center">
@@ -1820,9 +1820,9 @@
                                             <td>2/3/97</td>
                                             <td>2,000,000</td>
                                             <td>Project Commission</td>
-                                            <td>Ehsan Rezvanian</td>
+                                            <td>John Taromi</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>687462</td>
                                             <td>Paid</td>
                                             <td class="text-center">
@@ -1845,7 +1845,7 @@
                                             <td>Salary</td>
                                             <td>Mohammad Qanati</td>
                                             <td>Matican Group</td>
-                                            <td>Mr. Rezvanian's Web Shop</td>
+                                            <td>Mr. Taromi's Web Shop</td>
                                             <td>4,000,000</td>
                                             <td>unpaid</td>
                                             <td class="text-center">
@@ -2227,7 +2227,7 @@
                         </div>
                         <div class="media-body ml-5 mt-1">
                             <h6 class="mediafont text-dark mb-1">Name & family</h6><span
-                                    class="d-block">Ehsan Rezvanian</span>
+                                    class="d-block">John Taromi</span>
                         </div>
                     </div>
                     <div class="media mt-1 pb-2">
@@ -2263,7 +2263,7 @@
                         </div>
                         <div class="media-body ml-5 mt-1">
                             <h6 class="mediafont text-dark mb-1">Email</h6><span
-                                    class="d-block">ehsanrezvanian@gmail.com</span>
+                                    class="d-block">JohnTaromi@gmail.com</span>
                         </div>
                     </div>
                     <div class="media mt-1 pb-2">
@@ -2762,8 +2762,8 @@
 
                                                         <select class="form-control "
                                                                 data-placeholder="">
-                                                            <option value="1">Ehsan Rezvanian</option>
-                                                            <option value="2">Hossein Azimi</option>
+                                                            <option value="1">John Taromi</option>
+                                                            <option value="2">Mehdi Yegane</option>
                                                             <option value="3">Milad Mohammadi</option>
                                                         </select>
                                                     </div>

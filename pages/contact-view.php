@@ -91,7 +91,7 @@
                                         </div>
                                         <div class="media-body ml-5 mt-1">
                                             <h6 class="mediafont text-dark mb-1">Name
-                                            </h6><span class="d-block">Ehsan</span>
+                                            </h6><span class="d-block">John</span>
                                         </div>
                                     </div>
                                     <div class="media mt-1 pb-2">
@@ -100,7 +100,7 @@
                                         </div>
                                         <div class="media-body ml-5 mt-1">
                                             <h6 class="mediafont text-dark mb-1">Family Name</h6>
-                                            <span class="d-block">Rezvanian</span>
+                                            <span class="d-block">Taromi</span>
                                         </div>
                                     </div>
                                     <div class="media mt-1 pb-2">
@@ -271,8 +271,8 @@
                         <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Ehsan Rezvanian</td>
-                            <td>Hossein Azimi</td>
+                            <td>John Taromi</td>
+                            <td>Mehdi Yegane</td>
                             <td>3:10</td>
                             <td><a href="#" class="btn btn-dark btn-sm"><i
                                             class="fas fa-eye"></i>
@@ -281,8 +281,8 @@
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Ehsan Rezvanian</td>
-                            <td>Hossein Azimi</td>
+                            <td>John Taromi</td>
+                            <td>Mehdi Yegane</td>
                             <td>3:10</td>
                             <td><a href="#" class="btn btn-dark btn-sm"><i
                                             class="fas fa-eye"></i>
@@ -291,8 +291,8 @@
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Ehsan Rezvanian</td>
-                            <td>Hossein Azimi</td>
+                            <td>John Taromi</td>
+                            <td>Mehdi Yegane</td>
                             <td>3:10</td>
                             <td><a href="#" class="btn btn-dark btn-sm"><i
                                             class="fas fa-eye"></i>
@@ -301,8 +301,8 @@
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Ehsan Rezvanian</td>
-                            <td>Hossein Azimi</td>
+                            <td>John Taromi</td>
+                            <td>Mehdi Yegane</td>
                             <td>3:10</td>
                             <td><a href="#" class="btn btn-dark btn-sm"><i
                                             class="fas fa-eye"></i>
@@ -311,8 +311,8 @@
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Ehsan Rezvanian</td>
-                            <td>Hossein Azimi</td>
+                            <td>John Taromi</td>
+                            <td>Mehdi Yegane</td>
                             <td>3:10</td>
                             <td><a href="#" class="btn btn-dark btn-sm"><i
                                             class="fas fa-eye"></i>

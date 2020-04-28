@@ -132,7 +132,7 @@
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" class="font-weight-bold">Owner :</th>
-                                                            <td>Ehsan Rezvanian</td>
+                                                            <td>John Taromi</td>
                                                         </tr>
                                                         <tr>
                                                             <th scope="row" class="font-weight-bold">Value :</th>
@@ -263,7 +263,7 @@
                                                         <tr>
                                                             <td class="text-center">Title 1</td>
                                                             <td class="text-center">Type 1</td>
-                                                            <td class="text-center">Hossein Azimi</td>
+                                                            <td class="text-center">Mehdi Yegane</td>
                                                             <td class="text-center">Nikoo Gharib</td>
                                                             <td class="text-center">12 December 2019</td>
                                                             <td class="text-center">04 February 2020</td>
@@ -288,7 +288,7 @@
                                                         <tr>
                                                             <td class="text-center">Title 2</td>
                                                             <td class="text-center">Type 2</td>
-                                                            <td class="text-center">Ehsan Rezvanian</td>
+                                                            <td class="text-center">John Taromi</td>
                                                             <td class="text-center">Yasaman Taghvaie</td>
                                                             <td class="text-center">12 December 2019</td>
                                                             <td class="text-center">04 February 2020</td>
@@ -314,7 +314,7 @@
                                                         <tr>
                                                             <td class="text-center">Title 3</td>
                                                             <td class="text-center">Type 3</td>
-                                                            <td class="text-center">Hossein Azimi</td>
+                                                            <td class="text-center">Mehdi Yegane</td>
                                                             <td class="text-center">Mahdi Ardalan</td>
                                                             <td class="text-center">12 December 2019</td>
                                                             <td class="text-center">04 February 2020</td>
@@ -342,7 +342,7 @@
                                                         <tr>
                                                             <td class="text-center">Title 4</td>
                                                             <td class="text-center">Type 4</td>
-                                                            <td class="text-center">Hossein Azimi</td>
+                                                            <td class="text-center">Mehdi Yegane</td>
                                                             <td class="text-center">Shamsi Saberi</td>
                                                             <td class="text-center">12 December 2019</td>
                                                             <td class="text-center">04 February 2020</td>
@@ -368,7 +368,7 @@
                                                         <tr>
                                                             <td class="text-center">Title 5</td>
                                                             <td class="text-center">Type 5</td>
-                                                            <td class="text-center">Ehsan Rezvanian</td>
+                                                            <td class="text-center">John Taromi</td>
                                                             <td class="text-center">Motahareh Moalem</td>
                                                             <td class="text-center">12 December 2019</td>
                                                             <td class="text-center">04 February 2020</td>
@@ -1013,8 +1013,8 @@
                                                     <div class="form-group">
                                                         <select class="form-control custom-select" data-placeholder="">
                                                             <option> Ali Azimi</option>
-                                                            <option> Hossein Azimi</option>
-                                                            <option> Ehsan Rezvanian</option>
+                                                            <option> Mehdi Yegane</option>
+                                                            <option> John Taromi</option>
                                                         </select>
                                                     </div>
                                                 </div>

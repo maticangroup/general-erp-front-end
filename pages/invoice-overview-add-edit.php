@@ -59,7 +59,7 @@
                             <td class="text-center">Sale</td>
                             <td class="text-center">15 March 2019</td>
                             <td class="text-center">$ 5,000</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Nazgol Taranom</td>
                             <td class="text-center">Salaries</td>
                             <td class="text-center">31843416</td>
@@ -80,7 +80,7 @@
                             <td class="text-center">Purchase</td>
                             <td class="text-center">29 December 2021</td>
                             <td class="text-center">$ 4,100</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">Soheil Arabi</td>
                             <td class="text-center">Catering</td>
                             <td class="text-center">13815525</td>

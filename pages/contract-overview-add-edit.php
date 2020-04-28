@@ -85,7 +85,7 @@
                             <td class="text-center">Something</td>
                             <td class="text-center"> AhmadAzimi</td>
                             <td class="text-center">2/2/91</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center"><span class="tag">Something</span></td>
                             <td class="text-center">2/3/93</td>
                             <td class="text-center">5,000,000 T</td>
@@ -448,7 +448,7 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control">
-                                                                    <option>Mr. Rezvanian's birthday</option>
+                                                                    <option>Mr. Taromi's birthday</option>
                                                                     <option>deal 2</option>
                                                                     <option>deal 3</option>
                                                                 </select>
@@ -539,7 +539,7 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control">
-                                                                    <option>Mr. Rezvanian's birthday</option>
+                                                                    <option>Mr. Taromi's birthday</option>
                                                                     <option>deal 2</option>
                                                                     <option>deal 3</option>
                                                                 </select>

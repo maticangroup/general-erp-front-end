@@ -731,7 +731,7 @@
                                     <div><span class="avatar avatar-xxl brround cover-image m-4"
                                                data-image-src="../assets/images/photos/pro3.jpg"></span>
                                     </div>
-                                    <div class="font-weight-bold "> Ehsan Rezvanian</div>
+                                    <div class="font-weight-bold "> John Taromi</div>
                                     <div><span class="font-weight-bold">Org code :</span> EM 0010506
                                     </div>
                                     <div><span class="font-weight-bold">Role :</span> driver</div>

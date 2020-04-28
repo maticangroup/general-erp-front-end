@@ -448,7 +448,7 @@
                                                                     </thead>
                                                                     <tbody class="text-center">
                                                                     <tr>
-                                                                        <th scope="row">Ehsan Rezvanian</th>
+                                                                        <th scope="row">John Taromi</th>
                                                                         <td class="text-center">
                                                                             TQM
                                                                         </td>
@@ -457,7 +457,7 @@
                                                                         </td>
                                                                     </tr>
                                                                     <tr>
-                                                                        <th scope="row">Hossein Azimi</th>
+                                                                        <th scope="row">Mehdi Yegane</th>
                                                                         <td class="text-center">
                                                                             Finance
                                                                         </td>
@@ -561,7 +561,7 @@
                                             </span>
                                                                             </a>
                                                                             <h5 class="mt-3 mb-0"><a
-                                                                                        class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                                                                                        class="hover-primary" href="#">John Taromi</a></h5>
                                                                             <span>Person Position</span>
                                                                             <div>
                                                                                 <span class="badge badge-default">supervisor</span>
@@ -634,7 +634,7 @@
                                             </span>
                                                                             </a>
                                                                             <h5 class="mt-3 mb-0"><a
-                                                                                        class="hover-primary" href="#">Hossein Azimi</a></h5>
+                                                                                        class="hover-primary" href="#">Mehdi Yegane</a></h5>
                                                                             <span>Person Position</span>
                                                                             <div>
                                                                                 <span class="badge badge-default">cameraman</span>

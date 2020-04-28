@@ -192,7 +192,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-7">
-                                                            <p class="font-weight-bold mb-0 mt-1">Ehsan Rezvanian</p>
+                                                            <p class="font-weight-bold mb-0 mt-1">John Taromi</p>
                                                             <p>Develop first wireframes of new company page</p>
                                                         </div>
                                                     </div>
@@ -217,7 +217,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-7">
-                                                            <p class="font-weight-bold mt-1 mb-0">Ehsan Rezvanian</p>
+                                                            <p class="font-weight-bold mt-1 mb-0">John Taromi</p>
                                                             <p>Fix bugs in company page</p>
                                                         </div>
                                                     </div>
@@ -242,7 +242,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-7">
-                                                            <p class="font-weight-bold mt-1 mb-0">Ehsan Rezvanian</p>
+                                                            <p class="font-weight-bold mt-1 mb-0">John Taromi</p>
                                                             <p>Images for mobile reservation app</p>
                                                         </div>
                                                     </div>
@@ -294,7 +294,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-7">
-                                                            <p class="font-weight-bold mb-0 mt-1">Ehsan Rezvanian</p>
+                                                            <p class="font-weight-bold mb-0 mt-1">John Taromi</p>
                                                             <p>29/07/19 - Status meeting on delivery of the project</p>
                                                         </div>
                                                     </div>
@@ -330,7 +330,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="col-7">
-                                                            <p class="font-weight-bold mb-0 mt-1">Ehsan Rezvanian</p>
+                                                            <p class="font-weight-bold mb-0 mt-1">John Taromi</p>
                                                             <p>
                                                                 <del>Create logo for Peterson</del>
                                                             </p>
@@ -659,7 +659,7 @@
                                                             <span class="avatar-status bg-green"></span>
                                                         </span>
                                                         </a>
-                                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Hossein Azimi</a></h5>
+                                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Mehdi Yegane</a></h5>
                                                         <span>Owner 1</span>
                                                         <div >
                                                             <span class="badge badge-default">Religious</span>
@@ -704,7 +704,7 @@
                                                             <span class="avatar-status bg-green"></span>
                                                         </span>
                                                         </a>
-                                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">Ehsan Rezvanian</a></h5>
+                                                        <h5 class="mt-3 mb-0"><a class="hover-primary" href="#">John Taromi</a></h5>
                                                         <span>Project Manager</span>
                                                         <div >
                                                             <span class="badge badge-default">manager</span>
@@ -1294,7 +1294,7 @@
                                                                         <i class="fas fa-user" aria-hidden="true"></i>
                                                                     </div>
                                                                     <div class="media-body ml-5 mt-1">
-                                                                        <h6 class="mediafont text-dark mb-1">Owner</h6><span class="d-block">Hossein Azimi, Sara Nazparvar</span>
+                                                                        <h6 class="mediafont text-dark mb-1">Owner</h6><span class="d-block">Mehdi Yegane, Sara Nazparvar</span>
                                                                     </div>
                                                                 </div>
                                                                 <div class="media mt-1 pb-2">
@@ -1310,7 +1310,7 @@
                                                                         <i class="fas fa-hashtag" aria-hidden="true"></i>
                                                                     </div>
                                                                     <div class="media-body ml-5 mt-1">
-                                                                        <h6 class="mediafont text-dark mb-1">Project Manager</h6><span class="d-block">Ehsan Rezvanian</span>
+                                                                        <h6 class="mediafont text-dark mb-1">Project Manager</h6><span class="d-block">John Taromi</span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -1438,7 +1438,7 @@
                                                                         <i class="fas fa-user" aria-hidden="true"></i>
                                                                     </div>
                                                                     <div class="media-body ml-5 mt-1">
-                                                                        <h6 class="mediafont text-dark mb-1">Owner</h6><span class="d-block">Hossein Azimi, Sara Nazparvar</span>
+                                                                        <h6 class="mediafont text-dark mb-1">Owner</h6><span class="d-block">Mehdi Yegane, Sara Nazparvar</span>
                                                                     </div>
                                                                 </div>
                                                                 <div class="media mt-1 pb-2">
@@ -1656,9 +1656,9 @@
                                                             </div>
                                                             <div class="col-lg-9">
                                                                 <select class="form-control" id="ProjectManager">
-                                                                    <option>Ehsan Rezvanian</option>
+                                                                    <option>John Taromi</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -1672,7 +1672,7 @@
                                                                 <select class="form-control" id="ProductOwner">
                                                                     <option>Mahbobe Espidkar</option>
                                                                     <option>Amirhossein Hajighorbani</option>
-                                                                    <option>Hossein Azimi</option>
+                                                                    <option>Mehdi Yegane</option>
                                                                 </select>
                                                             </div>
                                                         </div>

@@ -40,7 +40,7 @@
                             <td class="text-center">Formality</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-red w-10">10%</div>
@@ -63,7 +63,7 @@
                             <td class="text-center">Marriage ceremony</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-warning w-35">35%</div>
@@ -88,7 +88,7 @@
                             <td class="text-center">Wedding</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-success w-100">100%</div>
@@ -113,7 +113,7 @@
                             <td class="text-center">Party</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-warning w-50">50%</div>
@@ -138,7 +138,7 @@
                             <td class="text-center">Newborn</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-red w-30">30%</div>
@@ -163,7 +163,7 @@
                             <td class="text-center">Formality</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-red w-0">0%</div>
@@ -186,7 +186,7 @@
                             <td class="text-center">Marriage ceremony</td>
                             <td class="text-center">12,000,000 Rial</td>
                             <td class="text-center">Website</td>
-                            <td class="text-center">Ehsan Rezvanian</td>
+                            <td class="text-center">John Taromi</td>
                             <td class="text-center">
                                 <div class="progress progress-md mb-3">
                                     <div class="progress-bar bg-success w-85">85%</div>
@@ -283,8 +283,8 @@
                                                     <div class="form-group">
                                                         <select class="form-control custom-select" data-placeholder="">
                                                             <option> Ali Azimi</option>
-                                                            <option> Hossein Azimi</option>
-                                                            <option> Ehsan Rezvanian</option>
+                                                            <option> Mehdi Yegane</option>
+                                                            <option> John Taromi</option>
                                                         </select>
                                                     </div>
                                                 </div>
@@ -572,8 +572,8 @@
                                                     <div class="form-group">
                                                         <select class="form-control custom-select" data-placeholder="">
                                                             <option> Ali Azimi</option>
-                                                            <option> Hossein Azimi</option>
-                                                            <option> Ehsan Rezvanian</option>
+                                                            <option> Mehdi Yegane</option>
+                                                            <option> John Taromi</option>
                                                         </select>
                                                     </div>
                                                 </div>

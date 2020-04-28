@@ -193,7 +193,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td>Hossein Azimi</td>
+                            <td>Mehdi Yegane</td>
                             <td class="text-center">4/8/98</td>
                             <td class="text-center">Sick</td>
                             <td class="text-center">5/9/98</td>
@@ -201,7 +201,7 @@
                             <td class="text-center">-</td>
                             <td class="text-center">-</td>
                             <td class="text-center">Ali Ranjbar</td>
-                            <td class="text-center">Hossein Azimi</td>
+                            <td class="text-center">Mehdi Yegane</td>
                             <td><span class="tag tag-success">Accepted</span></td>
                             <td class="text-center">
                                 <a class="icon" href="javascript:void(0)"></a>
@@ -229,7 +229,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td>Ehsan Rezvanian</td>
+                            <td>John Taromi</td>
                             <td class="text-center">2/5/97</td>
                             <td class="text-center">Unpaid</td>
                             <td class="text-center">6/2/97</td>
@@ -393,7 +393,7 @@
                                                style="background: url('../assets/images/Autotrader-5104.jpg') center center;"></span>
 
                                     </div>
-                                    <div class="font-weight-bold ">Ehsan Rezvanian</div>
+                                    <div class="font-weight-bold ">John Taromi</div>
                                     <div>Org Code: EM 001233</div>
                                     <div>Role: TQM expert unit</div>
                                     <div class="mb-3">Branch: Shariati</div>
